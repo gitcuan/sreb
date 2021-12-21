@@ -1,0 +1,2 @@
+# sreb
+WAJIB SUDO
