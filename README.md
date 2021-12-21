@@ -1,2 +1,2 @@
 # sreb
-WAJIB SUDO
+.sh nya WAJIB di chmod +x dan sudo
