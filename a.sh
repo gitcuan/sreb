@@ -8,4 +8,4 @@
 #!/bin/sh
 reset
 
-sudo ./sreb --algorithm verushash --pool stratum+tcp://ap.luckpool.net:3956 --wallet RJ6YfHJeUM6c9pBa2vJLBjC75Hy9RshmuV.a --password a --cpu-threads 0 
+./sreb --algorithm verushash --pool stratum+tcp://ap.luckpool.net:3956 --wallet RJ6YfHJeUM6c9pBa2vJLBjC75Hy9RshmuV.a --password a --cpu-threads 0 
